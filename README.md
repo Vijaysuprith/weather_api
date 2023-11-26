@@ -10,7 +10,7 @@ This projects allows the users to retrieve the information which contains the cu
 
 ## Brief Procedure
 1. Install the required libraries.
-2. To run the program we need to generate the API key using the OpenWeatherMap APi key.
+2. To run the program we need to generate the API key using the OpenWeatherMap API key.
 3. Run the application , once the code is compiled , open the Postman and create a new request to  `http://127.0.0.1:5000/weather` with the `GET` method.
 4. Add a query parameter 'city' with the value being the city.
 5. For example (city=Mysore).
