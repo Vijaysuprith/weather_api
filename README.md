@@ -26,11 +26,17 @@ This projects allows the users to retrieve the information which contains the cu
 
 
 ## screenshots
+
 1.The VScode which contains the code
+
 ![ss2](https://github.com/Vijaysuprith/weather_api/assets/136097581/53494506-4d34-45c6-a595-198ff1c11c08)
+
 2.Page not found while opening the url "http://127.0.0.1:5000"
+
 ![ss3](https://github.com/Vijaysuprith/weather_api/assets/136097581/986c3ea5-92b9-4057-a7be-5af25c8d29fa)
+
 3.Data retrieved in JSON file format
+
 ![ss1](https://github.com/Vijaysuprith/weather_api/assets/136097581/683be77e-ef83-4fef-af91-1fc0fc8070be)
 
 ## Additionals
