@@ -27,3 +27,5 @@ This projects allows the users to retrieve the information which contains the cu
 
 ##screenshots
 ![ss2](https://github.com/Vijaysuprith/weather_api/assets/136097581/53494506-4d34-45c6-a595-198ff1c11c08)
+![ss3](https://github.com/Vijaysuprith/weather_api/assets/136097581/986c3ea5-92b9-4057-a7be-5af25c8d29fa)
+
