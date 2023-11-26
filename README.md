@@ -1,7 +1,7 @@
 # Weather_API with flask 
 This projects allows the users to retrieve the information which contains the current weather information for multiple locations, this data is taken with the help of generated API key which was generated using OpenWeatherMap API.
 
-##Prerequisites
+## Prerequisites
 * python
 * flask
 * request packages
@@ -16,7 +16,7 @@ This projects allows the users to retrieve the information which contains the cu
 5. For example (city=Mysore).
 6. Once its done , send the request and get the output.To check the accuracy of the Output which contains the weather data by `OpenWeatherMap`.
 
-##Detailed explanation
+## Detailed explanation
 1. Run the Python script using the virtual environment by using idle or VScode.
 2. The script contains the base url `http://127.0.0.1:5000`. When you click on this url, you will see 404 error.
 3. Now by creating the new Workspace in the Postman worksapce, set the request type to 'GET'.
@@ -25,12 +25,12 @@ This projects allows the users to retrieve the information which contains the cu
 6. Click the send button the data will be retrieved in the form of JSON file.
 
 
-##screenshots
+## screenshots
 ![ss2](https://github.com/Vijaysuprith/weather_api/assets/136097581/53494506-4d34-45c6-a595-198ff1c11c08)
 ![ss3](https://github.com/Vijaysuprith/weather_api/assets/136097581/986c3ea5-92b9-4057-a7be-5af25c8d29fa)
 ![ss1](https://github.com/Vijaysuprith/weather_api/assets/136097581/683be77e-ef83-4fef-af91-1fc0fc8070be)
 
-##Additionals
+## Additionals
 1. The code includes the ability to retrieve weather information for multiple locations through the `/weather` endpoint , and even the code has try-except blocks to catch and handle exceptions which may occur during the APi requests.
 
 
