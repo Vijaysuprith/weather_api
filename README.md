@@ -2,10 +2,10 @@
 This projects allows the users to retrieve the information which contains the current weather information for multiple locations, this data is taken with the help of generated API key which was generated using OpenWeatherMap API.
 
 ## Prerequisites
-* python
-* flask
-* request packages
-* postman for testing API endpoints
+* Python
+* Flask
+* Request packages
+* Postman for testing API endpoints
 * API key generated from OpenWeatherMap API
 
 ## Brief Procedure
@@ -25,7 +25,7 @@ This projects allows the users to retrieve the information which contains the cu
 6. Click the send button the data will be retrieved in the form of JSON file.
 
 
-## screenshots
+## Screenshots
 
 1.The VScode which contains the code
 
