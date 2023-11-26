@@ -40,6 +40,6 @@ This projects allows the users to retrieve the information which contains the cu
 ![ss1](https://github.com/Vijaysuprith/weather_api/assets/136097581/683be77e-ef83-4fef-af91-1fc0fc8070be)
 
 ## Additionals
-1. The code includes the ability to retrieve weather information for multiple locations through the `/weather` endpoint , and even the code has try-except blocks to catch and handle exceptions which may occur during the APi requests.
+1. The code includes the ability to retrieve weather information for multiple locations through the `/weather` endpoint , and even the code has try-except blocks to catch and handle exceptions which may occur during the API requests.
 
 
